@@ -51,7 +51,7 @@ Built using **React.js (Frontend)** and **Node.js, Express, MongoDB (Backend)**.
 
 ###  Clone Repository
 ```bash
-git clone https://github.com/jaideepbose51/Minnor_Project.git 
+git clone https://github.com/jaiswalprachi19/Minnor_Project.git 
 ```
 
 ## Run Each App in Separate Terminals
